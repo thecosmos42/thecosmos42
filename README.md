@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi, I'm Shithik!👋
 AI & Software Engineer | ML Enthusiast 🚀
 
 **🔧 Tech Stack:** Python • PyTorch • C/C++ 
