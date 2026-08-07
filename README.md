@@ -1,15 +1,15 @@
-# Hi, I'm Shithik 👋
+# Hi, I'm Shithik
 
 
 ## About
 Master's student in AI, working on projects in the domain of RAG applications, computer vision, LLMs, and multi-agent systems. Always exploring, occasionally sleep-deprived, open to new collaborations.
 
 
-## 🔧 Tech Stack
+## Tech Stack
 `Python` `PyTorch` `RAG` `Java` `Spring Boot` `C/C++` `LangChain` 
 
 
-## 🔭 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
@@ -20,5 +20,5 @@ Master's student in AI, working on projects in the domain of RAG applications, c
 | [brain-tumor-segmentation](https://github.com/thecosmos42/brain-tumor-segmentation) | U-Net variants for automated brain tumor segmentation on the BraTS dataset |
 | [image-processing-service](https://github.com/thecosmos42/image-processing-service) | JWT-authenticated image processing REST API with resize, crop, rotate & filters |
 
-## 🌱 Interests
+## Interests
 Computer Vision · Multi-agent AI · RAG · Hand & Pose Estimation · LLMs · Medical Imaging
