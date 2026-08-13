@@ -3,6 +3,7 @@
 
 ## About
 Master's student in AI, working on projects in the domain of RAG applications, computer vision, LLMs, and multi-agent systems. Always exploring, occasionally sleep-deprived, open to new collaborations.
+You can get a sneak peak into my life over here: [Portfolio](https://thecosmos42.github.io/portfolio-website/)
 
 
 ## Tech Stack
