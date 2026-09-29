@@ -1,26 +1,34 @@
-# Hi, I'm Shithik!
+# 💫 About Me:
+🔭 I’m currently working on Agentic AI, RAG systems<br>🎓 MSc Artificial Intelligence student at Vrije Universiteit Amsterdam<br>👯 I’m looking to collaborate on startup ideas<br>⚡ I'm a 1x Hackathon winner at Accel AI Hackathon<br>🌱 Exploring computer vision, multi-agent systems and LLMs
 
 
-## About
-Master's student in AI, working on projects in the domain of RAG applications, computer vision, LLMs, and multi-agent systems. Always exploring, occasionally sleep-deprived, open to new collaborations.
-You can get a sneak peak into my life over here: [Portfolio](https://thecosmos42.github.io/portfolio-website/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shithik-shaji/)
 
-
-## Tech Stack
-`Python` `PyTorch` `RAG` `Java` `Spring Boot` `C/C++` `LangChain` 
-
-
-## Featured Projects
-
+# 🚀 Featured Projects:
 | Project | Description |
 |---|---|
-| [3d-hand-contact-estimation](https://github.com/thecosmos42/3d-hand-contact-estimation) | Estimating 3D hand contacts from 2D images using the InteractVLM model |
-| [university-qa-rag-app](https://github.com/thecosmos42/university-qa-rag-app) | RAG system for answering questions about the Master's curriculum at VU Amsterdam |
-| [ascent-ai](https://github.com/thecosmos42/ascent-ai) | Multi-agent system turning student confusion into clear, actionable academic plans |
-| [readme-ai](https://github.com/thecosmos42/ai-agents-google-hackathon) | AI multi-agent tool that analyzes GitHub repositories and generates clear READMEs |
-| [ecg-arrhythmia-classification](https://github.com/thecosmos42/ecg-arrhythmia-classification) | 1D-CNN deep learning classifier for arrhythmia detection on the MIT-BIH dataset |
-| [brain-tumor-segmentation](https://github.com/thecosmos42/brain-tumor-segmentation) | U-Net variants for automated brain tumor segmentation on the BraTS dataset |
-| [image-processing-service](https://github.com/thecosmos42/image-processing-service) | JWT-authenticated image processing REST API with resize, crop, rotate & filters |
+| **Scamurai** 🏆 | Real-time voice scam detection that auto-terminates calls and alerts family |
+| **SDLC Multi-Agent Suite** | LangGraph pipeline (design → code → review) with an eval dashboard |
+| [university-qa-rag-app](https://github.com/thecosmos42/university-qa-rag-app) | Hybrid-search RAG for VU Amsterdam curriculum questions |
+| [3d-hand-contact-estimation](https://github.com/thecosmos42/3d-hand-contact-estimation) | 3D hand contacts from 2D images using InteractVLM |
+| [ascent-ai](https://github.com/thecosmos42/ascent-ai) | Multi-agent system turning student confusion into actionable academic plans |
+| [readme-ai](https://github.com/thecosmos42/readme-ai) | Multi-agent tool that analyzes repos and generates clear READMEs |
+| [ecg-arrhythmia-classification](https://github.com/thecosmos42/ecg-arrhythmia-classification) | 1D-CNN arrhythmia classifier on MIT-BIH |
+| [brain-tumor-segmentation](https://github.com/thecosmos42/brain-tumor-segmentation) | U-Net variants for tumor segmentation on BraTS |
+| [image-processing-service](https://github.com/thecosmos42/image-processing-service) | JWT-authenticated image processing REST API |
 
-## Interests
-Computer Vision · Multi-agent AI · RAG · Hand & Pose Estimation · LLMs · Medical Imaging
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/hugging%20face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![Airflow](https://img.shields.io/badge/airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# 🎯 Interests:
+Agentic AI · RAG · LLMs · Computer Vision · NLP · Medical Imaging
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=thecosmos42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=thecosmos42&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thecosmos42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=thecosmos42&icon=0&color=0)](https://visitcount.itsvg.in)
+
