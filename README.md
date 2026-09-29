@@ -8,8 +8,8 @@
 # 🚀 Featured Projects:
 | Project | Description |
 |---|---|
-| **Scamurai** 🏆 | Real-time voice scam detection that auto-terminates calls and alerts family |
-| **SDLC Multi-Agent Suite** | LangGraph pipeline (design → code → review) with an eval dashboard |
+| [Scamurai](https://github.com/thecosmos42/scamurai) 🏆 | Real-time voice scam detection that auto-terminates calls and alerts family |
+| [ai-dev-crew](https://github.com/thecosmos42/ai-dev-crew) | AI powered software development crew |
 | [university-qa-rag-app](https://github.com/thecosmos42/university-qa-rag-app) | Hybrid-search RAG for VU Amsterdam curriculum questions |
 | [3d-hand-contact-estimation](https://github.com/thecosmos42/3d-hand-contact-estimation) | 3D hand contacts from 2D images using InteractVLM |
 | [ascent-ai](https://github.com/thecosmos42/ascent-ai) | Multi-agent system turning student confusion into actionable academic plans |
@@ -23,12 +23,3 @@
 
 # 🎯 Interests:
 Agentic AI · RAG · LLMs · Computer Vision · NLP · Medical Imaging
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thecosmos42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thecosmos42&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thecosmos42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=thecosmos42&icon=0&color=0)](https://visitcount.itsvg.in)
-
