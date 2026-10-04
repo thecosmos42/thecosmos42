@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Agentic AI, RAG systems<br>🎓 MSc Artificial Intelligence student at Vrije Universiteit Amsterdam<br>👯 I’m looking to collaborate on startup ideas<br>⚡ I'm a 1x Hackathon winner at Accel AI Hackathon<br>🌱 Exploring computer vision, multi-agent systems and LLMs
+🔭 I’m currently working on Agentic AI, LLM and RAG systems<br>🎓 MSc Artificial Intelligence student at Vrije Universiteit Amsterdam<br>👯 I’m looking to collaborate on startup ideas<br>⚡ I'm a 1x Hackathon winner at Accel AI Hackathon<br>
 
 
 ## 🌐 Socials:
