@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Agentic AI, LLM and RAG systems<br>🎓 MSc Artificial Intelligence student at Vrije Universiteit Amsterdam<br>👯 I’m looking to collaborate on startup ideas<br>⚡ I'm a 1x Hackathon winner at Accel AI Hackathon<br>
+🔭 I’m currently working on Agentic AI, LLM and RAG systems<br>🎓 MSc Artificial Intelligence student at Vrije Universiteit Amsterdam<br>👯 I’m looking to collaborate on startup ideas<br>⚡ Hackathon winner at Accel AI Hackathon<br>
 
 
 ## 🌐 Socials:
@@ -9,6 +9,7 @@
 | Project | Description |
 |---|---|
 | [Scamurai](https://github.com/thecosmos42/scamurai) 🏆 | Real-time voice scam detection that auto-terminates calls and alerts family |
+| [ai-hr-workflow-agent](https://github.com/thecosmos42/ai-hr-workflow-agent) | AI agent that automates entire HR onboarding process for new hires |
 | [ai-dev-crew](https://github.com/thecosmos42/ai-dev-crew) | AI powered software development crew |
 | [university-qa-rag-app](https://github.com/thecosmos42/university-qa-rag-app) | Hybrid-search RAG for VU Amsterdam curriculum questions |
 | [3d-hand-contact-estimation](https://github.com/thecosmos42/3d-hand-contact-estimation) | 3D hand contacts from 2D images using InteractVLM |
